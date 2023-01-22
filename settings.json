@@ -7,7 +7,7 @@
     "files.associations": {
         "*.tpl": "handlebars"
     },
-    "breadcrumbs.enabled": true,
+    "breadcrumbs.enabled": false,
     "workbench.startupEditor": "newUntitledFile",
     "[jsonc]": {
         "editor.quickSuggestions": {
@@ -54,9 +54,13 @@
     "editor.stickyScroll.enabled": true,
     "workbench.editor.splitInGroupLayout": "vertical",
     "yaml.schemas": {
-        "file:///c%3A/Users/marc/.vscode/extensions/atlassian.atlascode-3.0.0/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+        "file:///c%3A/Users/marc/.vscode/extensions/atlassian.atlascode-3.0.1/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
     },
     "atlascode.jira.enabled": false,
     "atlascode.bitbucket.enabled": true,
-    "redhat.telemetry.enabled": false
+    "redhat.telemetry.enabled": false,
+    "editor.cursorBlinking": "expand",
+    "editor.linkedEditing": true,
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.accessibilitySupport": "off"
 }
