@@ -11,16 +11,16 @@
     "workbench.iconTheme": null,
     "editor.fontFamily": "JetBrains Mono",
     "editor.fontLigatures": true,
-    "workbench.colorTheme": "Nord",
     "github.copilot.preferredAccount": "marcterradas",
     "workbench.sideBar.location": "right",
     "breadcrumbs.enabled": false,
     "editor.stickyScroll.enabled": false,
-    "editor.lineHeight": 2.2,
-    "workbench.editor.showTabs": "none",
+    "editor.lineHeight": 2.6,
     "workbench.activityBar.location": "top",
     "workbench.layoutControl.enabled": false,
     "window.customTitleBarVisibility": "never",
     "editor.glyphMargin": false,
-    "editor.fontSize": 12
+    "workbench.editor.showTabs": "none",
+    "scm.showHistoryGraph": false,
+    "workbench.colorTheme": "Vitesse Black"
 }
