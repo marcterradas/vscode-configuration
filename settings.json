@@ -11,7 +11,6 @@
     "workbench.iconTheme": null,
     "editor.fontFamily": "JetBrains Mono",
     "editor.fontLigatures": true,
-    "github.copilot.preferredAccount": "marcterradas",
     "workbench.sideBar.location": "right",
     "breadcrumbs.enabled": false,
     "editor.stickyScroll.enabled": false,
@@ -21,6 +20,8 @@
     "window.customTitleBarVisibility": "never",
     "editor.glyphMargin": false,
     "workbench.editor.showTabs": "none",
-    "scm.showHistoryGraph": false,
-    "workbench.colorTheme": "Vitesse Black"
+    "explorer.confirmDragAndDrop": false,
+    "workbench.panel.showLabels": false,
+    "chat.editing.alwaysSaveWithGeneratedChanges": true,
+    "git.blame.editorDecoration.enabled": true
 }
