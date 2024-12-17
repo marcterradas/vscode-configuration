@@ -1,10 +1,7 @@
-arcticicestudio.nord-visual-studio-code
 dbaeumer.vscode-eslint
-eamodio.gitlens
 github.copilot
 github.copilot-chat
 lokalise.i18n-ally
-nuxt.mdc
-nuxtr.nuxtr-vscode
+stylelint.vscode-stylelint
 usernamehw.errorlens
 vue.volar
