@@ -2,6 +2,6 @@ dbaeumer.vscode-eslint
 github.copilot
 github.copilot-chat
 lokalise.i18n-ally
+streetsidesoftware.code-spell-checker
 stylelint.vscode-stylelint
-usernamehw.errorlens
 vue.volar
