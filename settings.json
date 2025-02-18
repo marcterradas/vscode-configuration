@@ -14,5 +14,8 @@
     "git.blame.editorDecoration.enabled": true,
     "security.workspace.trust.untrustedFiles": "open",
     "breadcrumbs.enabled": false,
-    "workbench.activityBar.location": "top"
+    "workbench.activityBar.location": "top",
+    "workbench.layoutControl.enabled": false,
+    "workbench.editor.editorActionsLocation": "hidden",
+    "window.customTitleBarVisibility": "never"
 }
