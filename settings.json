@@ -17,5 +17,6 @@
     "workbench.activityBar.location": "top",
     "workbench.layoutControl.enabled": false,
     "workbench.editor.editorActionsLocation": "hidden",
-    "window.customTitleBarVisibility": "never"
+    "window.customTitleBarVisibility": "never",
+    "workbench.statusBar.visible": false
 }
